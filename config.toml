@@ -1,4 +1,4 @@
-baseurl = "https://www.example.org/"
+baseurl = "https://gc4camp.github.io/pulic/"
 title = "白板报"
 copyright = "Copyright &copy; 2019 - Wangpei"
 canonifyurls = true
