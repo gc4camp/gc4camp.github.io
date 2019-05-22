@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 白板报</title>
+    <link>https://wangpei.org/posts/</link>
+    <description>Recent content in Posts on 白板报</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <copyright>Copyright © 2019, Wangpei</copyright>
+    <lastBuildDate>Wed, 22 May 2019 19:09:38 +0800</lastBuildDate>
+    
+	<atom:link href="https://wangpei.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Some Post</title>
+      <link>https://wangpei.org/posts/some-post/</link>
+      <pubDate>Wed, 22 May 2019 19:09:38 +0800</pubDate>
+      
+      <guid>https://wangpei.org/posts/some-post/</guid>
+      <description>天，说黑也不黑，说亮也不亮。睡到半夜坐起来，贼心不退。
+前村砌了厂房，后村在捡煤渣，东洼架起炼油土锅，西坡还没有动静，趁早别转弯弯肠子，迟早也归人家。
+腌咸菜，卤豆腐，盐水里捞个钱儿容易么，总不是个长法。
+老李家，墙光狗肥不用问，肯定是个富户。狗尿槐树，人敬财主，红旗轿子横过来走，你独轮车推个面口袋，就敢不让路？
+要不老黄家？说起来还有点家底儿，打老辈儿开始就勤上坡、懒赶集、走亲戚还背个粪篓子。这二年，好白菜也让他拱了不少，火葬场都能承包。到时候灰是灰，火是火，一头扎进大炉里，倒也不用排号。放过他。
+赵老大常年不在家，他家里那口子不错，毛病是人品太端，性子太烈。话说回来，不受磨炼不成佛，狐之狗溜去串个门，也指不定是谁家耙子上草儿。可是，馋狗肥不了，人生一世，也不能阎王弄小鬼，舒服一会算一会。还是要有个盘算。
+弄个变压器，太危险，牛都装了防盗器，世道远不如从前。生产队那会儿，还能偷一筐地瓜解解馋，现在地瓜也不值钱。抢银行没胆儿没同伙。听说房价在涨，要不去抢个两室一厅先住着？
+寻思来，寻思去，仰儿翻天，一夜被单子拧成绳儿，一头挂房梁，一头拴脖子，炕沿上一呲溜，三十年就差一块好木头。尿盆里照照自己孙头鲁脑，这辈子也就这熊样儿了。
+轱辘一下翻起身，敲起梆子卖豆腐。</description>
+    </item>
+    
+    <item>
+      <title>Why Gollum Wiki</title>
+      <link>https://wangpei.org/posts/why-gollum-wiki/</link>
+      <pubDate>Wed, 22 May 2019 08:30:51 +0800</pubDate>
+      
+      <guid>https://wangpei.org/posts/why-gollum-wiki/</guid>
+      <description>为什么我会使用gollum wiki系统呢？
+为的是建立自己的个人知识库。</description>
+    </item>
+    
+    <item>
+      <title>21天学编程小结</title>
+      <link>https://wangpei.org/posts/21-days-of-coding/</link>
+      <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wangpei.org/posts/21-days-of-coding/</guid>
+      <description>2019年4月30日，我注意到在英文、日文推特界，有人发起了#100DaysOfCode 活动，但中文推特界似乎不见动静。就决定身先士卒，在推特上每天发布学编程的消息。
+5月1日第1天  Git的历史 A Short History of Git 看了油管视频Jekyll and Sublime Text 写了给文科生看的Github和Markdown极简教程； 安装gollum wiki系统报错； 安装sublime text jekyll 折腾成功；还不算正式学code。  5月2日第2天  学习了编剧语言fountain,安装研究了sublime text 的编剧插件 fountainhead。 学习设置了googlegroups邮件列表。 注册了一个域名Movie.Camp，并实现了全站迁徙。 陪儿子去书店买了本《Scratch编程乐园》  5月3日第3天  今天发现宝藏，Python - 100天从新手到大师jackfrued/Python-100-Days: Python - 100天从新手到大师完全免费的py学习库，一口气学了两天的内容，亲手编了五个小程序，收获满满。 同时学会了git命令行，终于摆脱了git图形界面，并成功commit + push了博客，每天进步的错觉真好。  5月4日第4天  用时1.5小时，学习了条件分支语句：if, elif, else, 照猫画虎编了判断三角形边长和求面积的程序，个税计算器 另外买了斋藤康毅写的《深度学习入门》和李泽写的《scrach高手密码》。前者对我来说，后者对我儿子来说，都如同天书。但是不怕，怕是学习的大敌。   Goldengrape建议：python基础完成后，对于深度学习，推荐coursera上的(link: http://deeplearning.ai) deeplearning.ai开的课程，吴恩达讲得很好，课后练习也很不错。看完手把手教的课程，再翻翻参考书可能更简单方便
+ 5月5日第5天  学习了循环语句for，while，照本宣科编了判断一个正整数是否是质数的小程序，用了sqrt优化算法。 还自学了《Python核心编程(第2版) 》前三章，发现Python的编程风格跟好莱坞剧本要求风格之间，有奇妙的关联。都是通过缩进来定义块，增强代码的可读性。收获满满，快乐萦怀。  5月6日第6天  今天主要是巩固练习，学者编写了「百钱白鸡」问题，「水仙花数」，「斐波那契数列」的Python程序。 同时在看《Scratch 高手密码》第二章，原来积木块编程游戏里蕴含的思路和算法，跟代码编程是一样的。 另：我儿子大字不识几个，对着书其吃垮差，做了一个球拍托球游戏，把我看呆了。  5月7日第7天 今天的内容超级难，讲的是函数和模块的使用，基本上没弄明白，例子也没有抄，因为看不懂。不过好歹也算学了编程，故而打卡一次。</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://wangpei.org/posts/my-first-post/</link>
+      <pubDate>Mon, 20 May 2019 20:07:06 +0800</pubDate>
+      
+      <guid>https://wangpei.org/posts/my-first-post/</guid>
+      <description>Wang Pei is a Hangzhou/Beijing based playwright and freelancer, born and raised in Shandong, educated in Shandong, Amoy and Nottingham. He has started to write on the internet since 1998 and enjoyed popularity as a humorous writer with a nickname “Red Heart Killer”.He started to work as an editor-in-chief in 1999 and founded heibanbao.com, a famous independent dissent website. He also worked in zhongo.com as the chief producer which was bankrupted at last.</description>
+    </item>
+    
+  </channel>
+</rss>
