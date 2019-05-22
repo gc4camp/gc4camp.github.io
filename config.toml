@@ -1,0 +1,42 @@
+baseURL = "https://wangpei.org/"
+title = "白板报"
+copyright = "Copyright © 2019, Wangpei"
+languageCode = "zh-CN"
+theme = "indigo"
+paginate = 5
+
+[params]
+  Author = "Wangpei"
+  Description = "一个技术博客"
+  Subtitle = "A subtitle for your site"
+  Avatar = "images/hugo-logo.png"
+  Biography = "A short description, a few sentences describing the author. Set the 'ShowBio' parameter to false to hide this."
+  ShowBio = false
+  PermalinkText = "🔗"
+
+  # Contact/social-network identifiers for social icons
+  EmailAddress = "i@wangpei.org"
+  FacebookUser = "FacebookUserName"
+  FlickrUser = "FlickrUserName"
+  GitHubUser = "shipian"
+  GitLabUser = "GitLabUserName"
+  GlitchUser = "GlitchUserName"
+  KeybaseUser = "KeybaseUserName"
+  LinkedInUser = "LinkedInUserName"
+  MediumUser = "wangpei"
+  MicroBlogUser = "MicroBlogUserName"
+  RedditUser = "RedditUserName"
+  StackOverflowUser = "StackOverflowUserName"
+  TumblrUser = "TumblrUserName"
+  TwitterUser = "wangpei"
+
+  # These are parameters used for indieweb identity. You should set these along
+  # with the above email/social network parameters.
+  [params.indieWeb]  
+    EmailAddress = "i@wangpei.org"
+    FlickrUser = "FlickrUserName"
+    GitHubUser = "shipian"
+    TwitterUser = "wangpei"
+    MicroBlogUser = "MicroBlogUserName"
+    Country = "China"
+    City = "Hangzhou"
