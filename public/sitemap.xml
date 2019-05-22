@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://www.example.org/content/</loc>
+    <lastmod>2019-05-22T20:03:54+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.org/</loc>
+    <lastmod>2019-05-22T20:03:54+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.example.org/posts/</loc>
+    <lastmod>2019-05-22T19:09:38+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.example.org/posts/some-post/</loc>
+    <lastmod>2019-05-22T19:09:38+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.org/posts/why-gollum-wiki/</loc>
+    <lastmod>2019-05-22T08:30:51+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.org/posts/21-days-of-coding/</loc>
+    <lastmod>2019-05-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.org/posts/my-first-post/</loc>
+    <lastmod>2019-05-20T20:07:06+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.org/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.example.org/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
