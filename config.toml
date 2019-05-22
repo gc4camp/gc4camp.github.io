@@ -1,42 +1,21 @@
-baseURL = "https://gc4camp.github.io/"
+baseurl = "https://www.example.org/"
 title = "白板报"
-copyright = "Copyright © 2019, Wangpei"
-languageCode = "zh-CN"
-theme = "indigo"
-paginate = 5
+copyright = "Copyright &copy; 2019 - Wangpei"
+canonifyurls = true
+theme = "kiera"
+
+paginate = 3
+
+summaryLength = 30
+enableEmoji = true
+pygmentsCodeFences = true
+
+[author]
+    name = "Wangpei"
+    github = "gc4camp"
+    gitlab = "gc4camp"
+    facebook = "redredpei"
+    twitter = "wangpei"
 
 [params]
-  Author = "Wangpei"
-  Description = "一个技术博客"
-  Subtitle = "A subtitle for your site"
-  Avatar = "images/hugo-logo.png"
-  Biography = "A short description, a few sentences describing the author. Set the 'ShowBio' parameter to false to hide this."
-  ShowBio = false
-  PermalinkText = "🔗"
-
-  # Contact/social-network identifiers for social icons
-  EmailAddress = "i@wangpei.org"
-  FacebookUser = "FacebookUserName"
-  FlickrUser = "FlickrUserName"
-  GitHubUser = "shipian"
-  GitLabUser = "GitLabUserName"
-  GlitchUser = "GlitchUserName"
-  KeybaseUser = "KeybaseUserName"
-  LinkedInUser = "LinkedInUserName"
-  MediumUser = "wangpei"
-  MicroBlogUser = "MicroBlogUserName"
-  RedditUser = "RedditUserName"
-  StackOverflowUser = "StackOverflowUserName"
-  TumblrUser = "TumblrUserName"
-  TwitterUser = "wangpei"
-
-  # These are parameters used for indieweb identity. You should set these along
-  # with the above email/social network parameters.
-  [params.indieWeb]  
-    EmailAddress = "i@wangpei.org"
-    FlickrUser = "FlickrUserName"
-    GitHubUser = "shipian"
-    TwitterUser = "wangpei"
-    MicroBlogUser = "MicroBlogUserName"
-    Country = "China"
-    City = "Hangzhou"
+    tagline = "A Hugo theme for creative and technical writing"
